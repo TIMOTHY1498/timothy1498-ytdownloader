@@ -13,3 +13,10 @@ In that prompt, enter the YT Url of the video and it will start downloading...
 To download a video, open the ```download_mp3.py``` file. It will show you a prompt
 In that prompt, enter the YT Url of the video and it will start downloading the video
 and save it as an audio...
+
+# How to install pytubefix
+
+You can install pytubefix by using this command
+```shell
+pip install pytubefix
+```
